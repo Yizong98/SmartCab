@@ -1,4 +1,3 @@
-# Machine Learning Engineer Nanodegree
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
 
@@ -19,3 +18,9 @@ In a terminal or command window, navigate to the top-level project directory `sm
 ```python -m smartcab.agent```
 
 This will run the `agent.py` file and execute your agent code.
+
+License
+-------
+
+dog-breed_classifier is Copyright © 2008-2018 Franz Bot. It is free
+software, and may be redistributed.
